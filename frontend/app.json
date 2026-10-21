@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Motivate",
+    "slug": "motivate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "motivate",
+    "web": { "bundler": "metro" },
+    "plugins": ["expo-router"]
+  }
+}
